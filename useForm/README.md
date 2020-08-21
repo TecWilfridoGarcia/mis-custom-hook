@@ -9,6 +9,6 @@ Ejemplo de uso:
     age:0
 
   }
-  const url = 'endpoint de una api';
+
   const [values, handleInputChange, reset] = useForm( initialForm );
 ```
